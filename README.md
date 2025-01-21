@@ -15,9 +15,17 @@ Driven by a lifelong passion for understanding complex systems, I am a research 
 * **Research & Development**: Laboratory Setup, System Design, Project Management, Scientific Communication
 
 ## :toolbox: Technical Skills
-* **Proficient in**: Python, MySQL, Tableau, and Power BI
-* **Familiar with**: HTML, Labview, C, C++, and Java
-* **Tools**: Git
+**Proficient in**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height=50 width=50> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height=50 width=50> <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-tableau.svg" height=50 width=50> 
+
+**Familiar with**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=50 width=50> 
+
+**Tools**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=50 width=50> 
 
 ## :books: Education
 * **PGP in Data Science and Business Analytics** | The University of Texas at Austin | 2022
@@ -27,10 +35,10 @@ Driven by a lifelong passion for understanding complex systems, I am a research 
 ## :scroll: Publications and Patents
 See the complete list at
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=30 width=30>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en)      [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=30 width=30>](https://www.researchgate.net/profile/Aravindan-Natarajan)     [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height=30 width=30>](https://orcid.org/0000-0002-2190-9825)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=50 width=50>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en)      [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=50 width=50>](https://www.researchgate.net/profile/Aravindan-Natarajan)     [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height=50 width=50>](https://orcid.org/0000-0002-2190-9825)
 
-## 📫 How to reach me
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=30 width=30>](https://www.linkedin.com/in/anatarajank/)      [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=30 width=30>](mailto:anatarajank@gmail.com)
+## 📫 Let us Connect!
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=50 width=50>](https://www.linkedin.com/in/anatarajank/)      [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=50 width=50>](mailto:anatarajank@gmail.com)
 
 <!--
 **anatarajank/anatarajank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
