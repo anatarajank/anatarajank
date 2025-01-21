@@ -17,7 +17,7 @@ Driven by a lifelong passion for understanding complex systems, I am a research 
 ## :toolbox: Technical Skills
 **Proficient in**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height=50 width=50> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height=50 width=50> <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-tableau.svg" height=50 width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height=50 width=50> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height=50 width=50> <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-tableau.svg" height=50 width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" height=50 width=50> 
 
 **Familiar with**
 
