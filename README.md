@@ -26,7 +26,7 @@ Driven by a lifelong passion for understanding complex systems, I am a research 
 
 ## :scroll: Publications and Patents
 See the complete list of publications on my
-
+<a href="https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=30 width=30></a>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=30 width=30>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en)      [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=30 width=30>](https://www.researchgate.net/profile/Aravindan-Natarajan)
 
 ## 📫 How to reach me
