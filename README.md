@@ -25,7 +25,7 @@ Driven by a lifelong passion for understanding complex systems, I am a research 
 * **M.Sc. in Chemistry** | Pondicherry University | 2012
 
 ## :scroll: Publications and Patents
-See the complete list of publications on my
+See the complete list at
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=30 width=30>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en)      [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=30 width=30>](https://www.researchgate.net/profile/Aravindan-Natarajan)     [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height=30 width=30>](https://orcid.org/0000-0002-2190-9825)
 
