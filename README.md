@@ -30,7 +30,7 @@ See the complete list of publications on my
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=30 width=30>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en) [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=30 width=30>](https://www.researchgate.net/profile/Aravindan-Natarajan)
 
 ## 📫 How to reach me
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=30 width=30>](https://www.linkedin.com/in/anatarajank/)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=30 width=30>](https://www.linkedin.com/in/anatarajank/) [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=30 width=30>](mailto:anatarajank@gmail.com)
 
 <!--
 **anatarajank/anatarajank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
