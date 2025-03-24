@@ -1,8 +1,9 @@
 ## Hi there 👋, I am Aravindan Natarajan,
 
-Driven by a lifelong passion for understanding complex systems, I am a research scientist specializing in the intersection of electrochemistry and data science. My current focus lies in developing cutting-edge algorithms for machine failure prognosis and process optimizations.
+Driven by a lifelong passion for understanding complex systems, I am a research scientist specializing in the intersection of electrochemistry and data science. I have expertise in extracting insights from complex data, building automated systems, and optimizing performance through advanced analytics.
 
 ## :briefcase: Experience
+* **Lead Data Scientist** | Freelance | Jun2024-Present
 * **Lead Research Scientist** | Dover Corporation | Oct 2023 - May 2024
 * **Senior Research Scientist** | Dover Corporation | Jun 2021 - Oct 2023
 * **Principal Investigator** | Pondicherry University | Mar 2018 - Mar 2021
