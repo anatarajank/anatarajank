@@ -39,7 +39,7 @@ See the complete list at
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height=50 width=50>](https://scholar.google.com/citations?user=IepOlREAAAAJ&hl=en)      [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height=50 width=50>](https://www.researchgate.net/profile/Aravindan-Natarajan)     [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height=50 width=50>](https://orcid.org/0000-0002-2190-9825)
 
 ## 📫 Let us Connect!
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=50 width=50>](https://www.linkedin.com/in/anatarajank/)      [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=50 width=50>](mailto:anatarajank@gmail.com)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height=50 width=50>](https://www.linkedin.com/in/anatarajank/)      [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=50 width=50>](mailto:anatarajan@amps2algorithms.com)
 
 <!--
 **anatarajank/anatarajank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
